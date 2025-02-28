@@ -4,6 +4,9 @@ const initialItems = [
   { id: 1, description: "Passports", quantity: 2, packed: true },
   { id: 2, description: "Socks", quantity: 12, packed: false },
   { id: 3, description: "Charger", quantity: 1, packed: true },
+  { id: 4, description: "Bottle", quantity: 1, packed: true },
+  { id: 5, description: "Travel Bag", quantity: 1, packed: true },
+  { id: 6, description: "Power bank", quantity: 1, packed: true },
 ];
 
 export default function App() {
