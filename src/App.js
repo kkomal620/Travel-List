@@ -7,6 +7,7 @@ const initialItems = [
   { id: 4, description: "Bottle", quantity: 1, packed: true },
   { id: 5, description: "Travel Bag", quantity: 1, packed: true },
   { id: 6, description: "Power bank", quantity: 1, packed: true },
+  { id: 7, description: "Wallet", quantity: 1, packed: true },
 ];
 
 export default function App() {
